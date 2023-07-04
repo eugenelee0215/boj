@@ -1,0 +1,10 @@
+inp1 = str(input())
+inp2 = str(input())
+
+a=len(inp1)
+b=len(inp2)
+
+if a>=b:
+  print("go")
+else:
+  print("no")
